@@ -1,2 +1,4 @@
+tkinter
 Pillow
 tkcalendar
+sqlite3
